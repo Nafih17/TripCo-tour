@@ -1,5 +1,5 @@
 
-const scriptURL = "https://script.google.com/macros/s/AKfycby3aE-8iWY-zxufuYKVdwS2Y86oB7W0ve-Txi7uKrV8ItFPpZfBAf7gOwWbRAzDJ2-2/exec";
+const scriptURL = "https://script.google.com/macros/s/AKfycbz_JdDjRP-YQ1vCIOTFKrqhRZhR5fBJ0HLAILV2gc3AZNuKdMNO_-6bqxrDVth-JZoW/exec";
 
 const form = document.getElementById("enquiryform");
 const message = document.getElementById("formMessage");
